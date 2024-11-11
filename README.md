@@ -1,1 +1,1 @@
-# sql-hazan-yigit-de24
+# SQL course using duckdb
