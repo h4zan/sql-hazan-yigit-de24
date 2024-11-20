@@ -1,3 +1,4 @@
+-- DDL - Data Definition Language
 CREATE SCHEMA IF NOT EXISTS database;
 
 SELECT * FROM information_schema.schemata;

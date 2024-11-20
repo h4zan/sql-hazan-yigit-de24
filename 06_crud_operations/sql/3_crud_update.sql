@@ -1,3 +1,4 @@
+--update
 SELECT
 	word,
 	learnt

@@ -1,3 +1,4 @@
+-- DML - data manipulation language
 INSERT
 	INTO
 	database.duckdb (word,
